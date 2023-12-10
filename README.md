@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SimonSchober
 - 👀 I’m interested in programming (JavaScript, HTML, CSS), AI and 3D Printing
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me (Private)
-- 🏃‍♂️My Hobbies are Basketball, Coding, Drawing
+- 🏃‍♂️ My Hobbies are Basketball, Coding and Drawing
