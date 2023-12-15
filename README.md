@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact I'm not really good at coding😅
 
-<img align="right" src="https://static-00.iconduck.com/assets.00/brand-android-robot-icon-1733x2048-yyrz7p51.png" width="300">
+
 <p align="left">
 </p>
 
