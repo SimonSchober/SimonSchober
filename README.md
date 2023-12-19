@@ -8,6 +8,9 @@
 
 - ⚡ Fun fact I'm not really good at coding😅
 
+- 💻 My Hobbies are Coding, 3D printing, drawing and Basketball
+  
+
 
 <p align="left">
 </p>
