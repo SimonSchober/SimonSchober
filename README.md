@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Simon Schober</h1>
 <h3 align="center">I am a Coding Beginner from Germany</h3>
 
-- 👨‍💻 All of my projects are available at  [https://github.com/SimonSchober](https://github.com/SimonSchober)
+- 👨‍💻 All of my projects are available at  [https://github.com/SimonSchober](https://github.com/SimonSchober) 
 
 - 💬 if there are problems you can ask me
 
