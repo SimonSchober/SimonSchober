@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimonSchober](https://github.com/SimonSchober)
 
-- 💬 Ask me about my Coding Skills
+- 💬 if there are problems you can ask me
 
 - ⚡ Fun fact: I play too much video games😅
 
