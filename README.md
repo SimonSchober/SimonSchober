@@ -6,7 +6,7 @@
 
 - 💬 Ask me about my Coding Skills
 
-- ⚡ Fun fact I'm not really good at coding😅
+- ⚡ Fun fact: I play too much video games😅
 
 - 💻 My Hobbies are Coding, 3D printing, drawing and Basketball
   
