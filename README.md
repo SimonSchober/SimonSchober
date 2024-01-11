@@ -1,6 +1,12 @@
 <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg-prod-cms-rt-microsoft-com.akamaized.net%2Fcms%2Fapi%2Fam%2FimageFileData%2FRE2o24K%3Fver%3Dea0e&f=1&nofb=1&ipt=555ab485d54276dda575eced5ed8041f00a0ade6687cacc44f0ae526cfa8fbb0&ipo=images&kp=1" alt="Windows Hello">
-<h1 align="center">Hi 👋, I'm Simon Schober</h1>
+<h1 align="center">Hello! I'm Simon Schober</h1>
 <h3 align="center">I am a Coding Beginner from Germany</h3>
+
+-🔭 I am working on some Multiplayer games
+
+-🌱 I am currently learning Javascript: game and Website Programming
+
+-👯 I am looking to collabrate on Realtime Database and AI
 
 - 👨‍💻 All of my projects are available at  [https://github.com/SimonSchober](https://github.com/SimonSchober) 
 
