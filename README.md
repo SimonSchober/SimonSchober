@@ -12,7 +12,7 @@
 
 - 💬 if there are problems you can ask me
 
-- ⚡ Fun fact: I play too much video games😅
+- ⚡ Fun fact: The Only thing I use is my Laptop😁
 
 - 💻 My Hobbies are Coding, 3D printing, drawing and Basketball
   
