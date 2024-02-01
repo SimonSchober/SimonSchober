@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at  [https://github.com/SimonSchober](https://github.com/SimonSchober) 
 
-- 💬 if there are problems you can ask me
+- 💬 if there are problems you can add me on Discord with the Name: Unknown_Pug
 
 - ⚡ Fun fact: The Only thing I use is my Laptop😁
 
