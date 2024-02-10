@@ -2,11 +2,11 @@
 <h1 align="center">Hello! I'm Simon Schober</h1>
 <h3 align="center">I am a Coding Beginner from Germany</h3>
 
-- 🔭 I am working on some Multiplayer games
+- 🔭 I am working on a Pac-man game
 
 - 🌱 I am currently learning Javascript: game and Website Programming
 
-- 👯 I am looking to collabrate on Realtime Database and AI
+- 👯 I am looking to collabrate on AI
 
 - 👨‍💻 All of my projects are available at  [https://github.com/SimonSchober](https://github.com/SimonSchober) 
 
