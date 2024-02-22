@@ -12,7 +12,7 @@
 
 - 💬 if there are problems you can add me on Discord with the Name: Unknown_Pug
 
-- ⚡ Fun fact: The Only thing I use is my Laptop😁
+- ⚡ Fun fact: My wishes on Christmas are more worth than a Gaming PC😂
 
 - 💻 My Hobbies are Coding, 3D printing, drawing and Basketball
   
