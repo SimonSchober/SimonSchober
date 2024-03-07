@@ -8,7 +8,7 @@
 
 - 👯 I am looking to collabrate on AI
 
-- 👨‍💻 All of my projects are available at  [https://github.com/SimonSchober](https://github.com/SimonSchober) 
+- 👨‍💻 All of my projects are available at this Platform
 
 - 💬 if there are problems you can add me on Discord with the Name: Unknown_Pug
 
